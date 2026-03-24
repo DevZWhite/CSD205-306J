@@ -1,2 +1,0 @@
-Name: zachary daniel white | Initials: Z. D. W.
-Name: & C:/msys64/ucrt64/bin/python.exe c:/Python/assignment10.2/zwhite_module10.2.py | Initials: &. C. C.
